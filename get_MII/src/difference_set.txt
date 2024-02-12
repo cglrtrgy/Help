@@ -1,0 +1,1 @@
+{'pickup-has-precondition-ontable ?x', 'pickup-has-precondition-handempty', 'unstack-has-delete-effect-on ?x ?y', 'unstack-has-precondition-on ?x ?y', 'pickup-has-delete-effect-clear ?x', 'putdown-has-add-effect-ontable ?x', 'stack-has-add-effect-clear ?x', 'stack-has-precondition-holding ?x', 'unstack-has-precondition-clear ?x'}

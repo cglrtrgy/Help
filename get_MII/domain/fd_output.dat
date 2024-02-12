@@ -1,0 +1,6 @@
+pickup b 
+stack b a 
+pickup c 
+stack c b 
+pickup d 
+stack d c

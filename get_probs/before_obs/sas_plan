@@ -1,0 +1,5 @@
+(move roomc rooma)
+(pick ball2 rooma right)
+(move rooma roomb)
+(drop ball2 roomb right)
+; cost = 4 (unit cost)
